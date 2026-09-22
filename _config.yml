@@ -1,2 +1,14 @@
 theme: jekyll-theme-hacker
-title: estidley homepage
+title: Ethan Stidley
+description: Indie developer
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - docs
