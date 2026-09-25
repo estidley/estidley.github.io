@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[Home](./) · [KiwiWire](./kiwiwire.html) · [Privacy](./kiwiwire-privacy.html) · [Support](./kiwiwire-support.html)
+[Home](./) · [KiwiWire](./kiwiwire.html) · [PDF Anchor](./pdfanchor.html)
 
-I created and own [KiwiWire](./kiwiwire.html), an Android podcast app.
+I created and own [KiwiWire](./kiwiwire.html), an Android podcast app, and [PDF Anchor](./pdfanchor.html), an Android PDF reader.
 
 **Email:** [estidley@gmail.com](mailto:estidley@gmail.com)
 
@@ -13,5 +13,4 @@ I created and own [KiwiWire](./kiwiwire.html), an Android podcast app.
 ## Projects
 
 - [KiwiWire](./kiwiwire.html) — local-only Android podcast player
-
-More projects coming soon.
+- [PDF Anchor](./pdfanchor.html) — local-only Android PDF reader
