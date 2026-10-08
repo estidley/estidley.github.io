@@ -3,7 +3,7 @@ layout: default
 title: KiwiWire support
 ---
 
-[Home](./) · [KiwiWire](./kiwiwire.html) · [Privacy](./kiwiwire-privacy.html) · [Support](./kiwiwire-support.html)
+[Home](./) · [KiwiWire](./kiwiwire.html) · [Privacy](./kiwiwire-privacy.html) · [Legal](./kiwiwire-legal.html) · [Support](./kiwiwire-support.html)
 
 ## KiwiWire support
 
