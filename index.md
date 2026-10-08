@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./) · [KiwiWire](./kiwiwire.html) · [PDF Anchor](./pdfanchor.html)
+[Home](./) · [KiwiWire](./kiwiwire.html) · [PDF Anchor](./pdfanchor.html) · [Stormivo](./stormivo.html)
 
 I created and own [KiwiWire](./kiwiwire.html), an Android podcast app, and [PDF Anchor](./pdfanchor.html), an Android PDF reader.
 
@@ -14,3 +14,4 @@ I created and own [KiwiWire](./kiwiwire.html), an Android podcast app, and [PDF 
 
 - [KiwiWire](./kiwiwire.html) — local-only Android podcast player
 - [PDF Anchor](./pdfanchor.html) — local-only Android PDF reader
+- [Stormivo](./stormivo.html) — Android lightning observations and distance alerts, in development
