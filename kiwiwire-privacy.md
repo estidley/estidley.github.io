@@ -7,7 +7,7 @@ title: KiwiWire privacy policy
 
 ## KiwiWire privacy policy
 
-**Effective date:** October 8, 2026
+**Effective date:** October 12, 2026
 
 This policy describes the KiwiWire Android app, a podcast player created and owned by Ethan Stidley.
 
@@ -26,6 +26,7 @@ KiwiWire stores the following on the device, in app-private storage (a Room data
 - Subscriptions and RSS feed URLs
 - Episode metadata
 - Listen progress
+- Listening metrics: recorded time, local listening dates, and episode/podcast identifiers and podcast titles
 - Bookmarks
 - Up Next
 - Smart rules
@@ -73,11 +74,11 @@ WorkManager, used for background work such as downloads, may also use `WAKE_LOCK
 
 Current versions allow Android to back up the library database and app preferences, subject to your device's backup settings and backup provider. These data may also be included in Android device transfer. Downloaded audio and directory cache files are not included by KiwiWire's backup rules.
 
-Export library as JSON creates a file in the location you choose. That file can contain feed URLs, subscriptions, listening progress, bookmarks, queue entries, and settings. Audio files are not included. You control sharing and deletion of exported files; clearing the app does not delete copies you saved elsewhere.
+Export library as JSON creates a file in the location you choose. That file can contain feed URLs, subscriptions, listening progress, listening metrics, bookmarks, queue entries, and settings. Audio files are not included. You control sharing and deletion of exported files; clearing the app does not delete copies you saved elsewhere.
 
 ### Deleting data
 
-You can clear the library in the app (Clear library, or the equivalent control). Uninstalling KiwiWire removes the app’s private data from the device.
+You can clear the library, including listening metrics, in the app (Clear library, or the equivalent control). Unsubscribing or removing downloaded audio keeps your recorded listening metrics. Uninstalling KiwiWire removes the app’s private data from the device.
 
 KiwiWire has no accounts, so there is no account-deletion page.
 
